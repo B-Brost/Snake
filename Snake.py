@@ -1,3 +1,9 @@
+"""
+Snake.py
+Brianna Brost
+5/5/2023
+This is a Python-based Snake game where the player controls a snake to eat food (orange squares) on a grid. The snake grows longer and faster with each food consumed, and the game ends if the snake hits the grid walls or its own body. 
+"""
 # import
 from __future__ import annotations
 import random
